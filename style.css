@@ -1,0 +1,148 @@
+
+#karangiyraj{
+    width: 1450px;
+    height:80px;
+    border: solid;
+
+}
+
+.rr{
+  width: 1455px;
+}
+
+h1{
+  position: relative;
+  left: 630px;
+  bottom: 45px;
+  text-decoration: underline;
+}
+
+
+
+
+.kk{
+  color: rgb(0, 0, 0);
+  position: relative;
+  left: 10px;
+  top: 10px;
+  text-decoration: none;
+ 
+  border: solid rgb(73, 255, 7);
+  padding: 10px;  
+  
+}
+
+.ll{
+  position: relative;
+  left: 1350px;
+  bottom: 94px;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  border: solid rgb(73, 255, 7);
+  padding: 10px;
+}
+ .raj{
+  position: relative;
+  left: 1280px;
+  bottom: 135px;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  border: solid rgb(73, 255, 7);
+  padding: 10px;
+ }
+
+ .xx{
+  color: white;
+ 
+  text-decoration: center;
+  position: relative;
+  bottom: 400px;
+  left: 200px;
+  text-transform: capitalize;
+  font-family: Copperplate,papyrus,fantasy;
+}
+
+.pp{
+  color: white;
+  position: relative;
+  bottom: 455px;
+  left: 160px;
+  text-transform: capitalize;
+  font-family: Copperplate,papyrus,fantasy;
+}
+
+.ww{
+  color: rgb(255, 255, 255);
+  position: relative;
+  bottom: 450px; 
+  left: 150px;
+}
+
+.rk{
+  color: rgb(255, 255, 255);
+  position: relative;
+  bottom: 500px; 
+  left: 250px;
+}
+
+#ahir{
+  position: relative;
+  color: white;
+  bottom: 450px;
+  left: 190px;
+  text-decoration: none;
+  border: solid rgb(73, 255, 7);
+  padding: 2px;
+  background-color: blue;
+  
+}
+#zz{
+  width: 70px;
+  position: relative;
+  bottom:  1413px;
+  left: 545px;
+ 
+}
+
+#qw{
+  color: rgb(255, 255, 255);
+  border: solid rgb(73, 255, 7);
+  padding: 8px;
+  position: relative;
+  left: 510px;
+  text-decoration: none;
+  bottom: 1375px;
+}
+
+header{
+  background-color: rgb(158, 104, 209);
+  
+}
+
+#w{
+  color: white;
+  position: relative;
+  bottom: 1415px;
+  left: 150px;
+  text-decoration: none;
+  border: solid rgb(73, 255, 7);
+  padding: 8px;
+}
+#ht{
+  color: white;
+  position: relative;
+  bottom: 1455px;
+  left: 845px;
+  text-decoration: none;
+  border: solid rgb(73, 255, 7);
+  padding: 8px;
+}
+#hn{
+  color: white;
+  position: relative;
+  bottom: 1495px;
+  left: 1200px;
+  text-decoration: none;
+  border: solid rgb(73, 255, 7);
+  padding: 8px;
+}

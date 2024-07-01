@@ -1,0 +1,28 @@
+
+#a{
+    width: 100px;
+    display: flex;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+#b{
+    margin-left: 63px;
+}
+#c{
+    width: 150px;
+    height: 80px;
+    position: relative;
+    left: 280px;
+    bottom: 180px;
+}
+#d{
+    position: relative;
+    left:290px;
+    bottom: 175px;
+}
+#e{
+    width: 200px;
+    position: relative;
+    left: 480px;
+    bottom:  340px;
+}
